@@ -7,7 +7,12 @@ A script for convering SVG file to adaptive icons
 npm install svgexport -g
 ```
 
-## Usage
+## Usage svgexport
+```
+svgexport ic_launcher.svg res/mipmap-hdpi/ic_launcher.png 72:72
+```
+
+## Usage scripts
 Create three SVG file named as 
 
 * adaptive_icon_background
